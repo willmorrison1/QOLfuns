@@ -1,0 +1,11 @@
+Package: QOLfunctions
+Type: Package
+Title: Quality of Life Functions
+Version: 0.1.0
+Author: William T. J. Morrison
+Maintainer: William T. J. Morrison <willmorrison661@gmail.com>
+Description: Some small but useful functions for day to day R work.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

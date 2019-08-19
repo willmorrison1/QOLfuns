@@ -52,3 +52,18 @@ jYHHMMSSFS <- function(TIME = Sys.time()){
   oTimeFormatted <- gsub("[.]", "_", oTime)
   return(oTimeFormatted)
 }
+
+
+#' Format TIME as shown
+#'
+#' @param TIME
+#'
+#' @return
+#' @export
+#'
+#' @examples
+HHMMSS <- function(TIME = Sys.time()){
+  oTime <- format(TIME, "%H%M%S")
+  oTimeFormatted <- gsub("[.]", "_", oTime)
+  return(oTimeFormatted)
+}

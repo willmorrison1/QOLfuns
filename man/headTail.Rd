@@ -9,6 +9,9 @@ headTail(vec, index = FALSE, sepChar = NULL)
 \arguments{
 \item{sepChar}{}
 }
+\value{
+
+}
 \description{
 Get head and tail of a vector
 }

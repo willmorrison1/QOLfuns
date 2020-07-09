@@ -9,6 +9,9 @@ HHMMSS(TIME = Sys.time())
 \arguments{
 \item{TIME}{}
 }
+\value{
+
+}
 \description{
 Format TIME as shown
 }

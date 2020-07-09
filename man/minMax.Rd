@@ -9,6 +9,9 @@ minMax(x)
 \arguments{
 \item{x}{}
 }
+\value{
+
+}
 \description{
 Return both min and max
 }

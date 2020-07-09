@@ -9,6 +9,9 @@ exitMsg(messageText, exitStatus)
 \arguments{
 \item{exitStatus}{Passed to quit()}
 }
+\value{
+
+}
 \description{
 Extended exit message
 }

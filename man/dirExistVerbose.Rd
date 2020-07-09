@@ -9,6 +9,9 @@ dirExistVerbose(dirName, actionFun)
 \arguments{
 \item{actionFun}{A function to run if folder doesn't exist}
 }
+\value{
+
+}
 \description{
 Extended directory exist check
 }

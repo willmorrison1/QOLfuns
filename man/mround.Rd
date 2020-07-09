@@ -9,6 +9,9 @@ mround(x, base)
 \arguments{
 \item{base}{}
 }
+\value{
+
+}
 \description{
 Flexible round
 }

@@ -9,6 +9,9 @@ cat1(x)
 \arguments{
 \item{x}{}
 }
+\value{
+
+}
 \description{
 print with timestamp
 }

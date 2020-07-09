@@ -9,6 +9,9 @@ jY(DATE = NULL)
 \arguments{
 \item{DATE}{}
 }
+\value{
+
+}
 \description{
 Format TIME as shown
 }

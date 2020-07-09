@@ -9,6 +9,9 @@ fileExistVerbose(fileName, actionFun)
 \arguments{
 \item{actionFun}{A function to run if file doesn't exist}
 }
+\value{
+
+}
 \description{
 Extended file exist check
 }
